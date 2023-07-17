@@ -1,0 +1,1246 @@
+@import url(https://fonts.googleapis.com/css2?family=Secular+One&display=swap);
+ 
+@import url(https://fonts.googleapis.com/css2?family=Song+Myung&display=swap);
+
+.body{
+    margin: auto;
+    font-size: 100%;
+    font-family: 'Song Myung', serif;
+}
+h1,h2,h3,h4,h5,h6,a{
+    margin: auto;
+    font-family: 'Song Myung', serif;
+}
+
+p,td{
+    margin: auto;  
+    font-family: 'Song Myung', serif;
+}
+
+/*Top Bar*/
+/* 
+.TopBarsection .TOPpara p {
+    font-size: 15px;
+ 
+}
+
+
+
+.TopBarsection .footeSocialIcoNricon{
+    text-align: left;
+    display: block;
+}
+.TopBarsection .SocialIcoN a{
+    padding: 0px 5px;
+    font-size: 20px;
+    color: #647941  !important;
+}
+.TopBarsection .SocialIcoN i{
+    color: #647941  !important;
+    text-align: center;
+} */
+
+
+/*Top Bar end*/
+
+/*Navbar*/
+
+
+.NavigationBaR .TOPpara p {
+    font-size: 15px;
+}
+
+.NavigationBaR .headSocialIcoNricon i {
+    color:#1f3f1f;
+}
+
+.NavigationBaR {
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+}
+
+.NavigationBaR .HeadTitle {
+    color: white !important;
+}
+
+.NavigationBaR .navBACk {
+    background-color: #647941  !important;
+    border-radius: 20px;
+}
+
+
+.NavigationBaR .collapNAv {
+    text-align: center;
+}
+
+.NavigationBaR .NaVi .collapNAv .navtit {
+    padding-right: 1.5rem;
+    padding-left: 2.5rem;
+    color: white;
+}
+
+
+.NavigationBaR .NaVi .collapNAv .navtit:hover {
+    color: #79a379;
+
+}
+
+
+.NavigationBaR .NaVi .collapNAv .active {
+    color: aquamarine;
+}
+
+.NavigationBaR .ADDtoCart .search {
+    color: white !important;
+    padding: 0px 5px;
+}
+
+
+.NavigationBaR .ADDtoCart .search:hover {
+    color: #79a379 !important;
+}
+
+.Global{
+    color: white !important;
+}
+.Global:hover{
+    color: #79a379 !important;
+}
+
+.selectpicker{
+    border-radius: 10px;
+    height: 30px;
+}
+
+.selectpicker:hover>.tameng{
+    display:block;
+}
+
+
+/*Navbar end*/
+
+
+
+/*Carosual start*/
+
+
+.CaroSual .carosconten .button1 {
+    background-color: #647941 !important;
+    border-color: #647941 ;
+   
+}
+
+.CaroSual .button1:hover {
+    background-color: #88ff88;
+    border-color: #647941 ;
+    color: #647941 ;
+}
+
+/*Carosual end*/
+
+
+
+/*content Start*/
+
+.startContent .Contxt {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.startContent .Constrt {
+    padding-top: 30px;
+
+}
+
+
+.startContent .Conpara {
+    color: darkslategrey;
+}
+
+
+
+
+.startContent .button2 {
+    background-color: #647941 ;
+    border-color: #647941 ;
+}
+
+
+.startContent .button2:hover {
+    background-color: #88ff88;
+    border-color: #647941 ;
+    color: #647941 ;
+}
+
+/*content end*/
+
+
+
+/*Imagesection start*/
+
+.ImageSection {
+
+    padding: 100px 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)), url('backCow.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-position-x: right;
+    background-position-y: bottom;
+    position: relative;
+}
+
+.ImageSection .frstimghead {
+    font-size: 3.0vw;
+    font-weight: 600;
+    padding-top: 40px;
+}
+
+.ImageSection .scndimghead {
+    font-size: 2.5vw;
+    font-weight: 600;
+}
+
+
+.ImageSection .frstimgparah {
+    color: rgb(255, 255, 255);
+
+}
+
+/*Imagesection end*/
+
+
+
+/*SecImage2 start*/
+
+.singleimg {
+    border-radius: 10px;
+    width: 300px;
+    position: relative;
+    top: -50px;
+
+}
+
+.SecImage .secIMAges .imgConSec {
+    width: 300px;
+    padding-top: 195px;
+    padding-bottom: 60px;
+
+}
+
+
+.secIMAges {
+    position: relative;
+}
+
+
+.SecImage .SecConImage .imgSecCon {
+    border-radius: 10px;
+    width: 300px;
+    padding-bottom: 20px;
+}
+
+
+.SecImage .secimghead {
+    font-weight: bold;
+   
+    font-size: 35px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.SecImage .secondimg {
+    padding: 0px;
+
+}
+
+.SecImage .thirdimg {
+    padding: 20px 0px;
+}
+
+
+.SecImage .head1 {
+    font-size: 20px;
+    font-weight: bold;
+   
+
+}
+
+.SecImage .parah1 {
+    font-size: 15px;
+    color: darkslategrey;
+    padding: 5px 0px;
+}
+
+
+.SecImage .head2 {
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+
+/*SecImage2 end*/
+
+
+
+/*page Carosual*/
+.pageCarosual {
+    padding: 20px 0px;
+}
+
+.pageCarosual .carosletter {
+    text-align: center;
+
+}
+
+
+.pageCarosual .carosletter h3 {
+    font-size: 40px;
+    font-weight: bold;
+  
+}
+
+
+.pageCarosual .carosletter a {
+    text-align: center;
+
+}
+
+.pageCarosual .carousel-control-next {
+    position: relative;
+    display: inline-block;
+    padding: 0px 5px;
+}
+
+.pageCarosual .carousel-control-prev {
+    position: relative;
+    display: inline-block;
+}
+
+/*page Carosual end*/
+
+
+/*IconImages Start*/
+
+.IconImage {
+    padding: 30px 0px;
+}
+
+.IconImage .Iconh1 {
+    font-weight: bold;
+   
+    font-size: 45px;
+}
+
+.IconImage .imagesIcon .icontent {
+    font-weight: bold;
+   
+    font-size: 25px;
+    padding: 10px 0px;
+}
+
+
+.IconImage .imagesIcon .ipara {
+    color: darkslategrey;
+    font-size: 15px;
+   
+}
+
+/*IconImages end*/
+
+
+
+
+
+/*Tab Start*/
+
+
+.Tabbing {
+    padding: 40px 0px;
+}
+
+.Tabbing .imgtab {
+    border-radius: 20px;
+    width: 300px;
+}
+
+.Tabbing .tabimg {
+    text-align: center;
+}
+
+
+.Tabbing .grpanel .tabcon {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.Tabbing .plusicon {
+    float: right;
+}
+
+
+.side>a:after {
+    content: "\2b";
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+    right: 30px;
+    color: #647941 ;
+    font-weight: bolder;
+   
+}
+
+.side>a[aria-expanded="true"]:after {
+    content: "\f068";
+    font-family: "Font Awesome 5 Free";
+    font-weight: bolder;
+}
+
+.side a {
+    color: #647941 ;
+  
+    font-size: 22px;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+.Tabbing .TabinTabs .bodypara {
+    font-size: 13px;
+    color: darkslategrey;
+    padding-bottom: 40px;
+}
+
+
+.Tabbing .panspace {
+    padding: 15px 0px;
+}
+
+/*Tab end*/
+
+
+
+/*Products start*/
+
+
+.Products {
+    padding: 40px 0px;
+}
+
+.Products .prodtitle {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+.Products .prodtitle h3 {
+    font-size: 35px;
+  
+    font-weight: bold;
+}
+
+
+.Products .proditem {
+    text-align: center;
+    padding: 10px 0px;
+}
+
+
+.Products .cardwid {
+    padding: 60px 0px;
+    text-align: center;
+    border: 0px;
+    background-color: antiquewhite;
+}
+
+
+
+.Products .proditem .crdtit {
+    font-size: 20px;
+    font-weight: bold;
+    color: #647941 ;
+}
+
+.Products .proditem .crdtxt {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+
+.cardwid .product-links li {
+    transform: rotate(360deg) scale(0);
+    transition: all 0.3s ease 0s;
+    display: inline-block;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+
+}
+
+.cardwid:hover .product-links li {
+    transform: rotate(0) scale(1);
+}
+
+.cardwid:hover .product-links li:nth-child(3) {
+    transition-delay: 0.1s;
+}
+
+.cardwid:hover .product-links li:nth-child(2) {
+    transition-delay: 0.2s;
+}
+
+.cardwid:hover .product-links li:nth-child(1) {
+    transition-delay: 0.3s;
+}
+
+.cardwid .product-links li a {
+    color: #79a379;
+    font-size: 30px;
+    transition: all 0.3s ease 0s;
+}
+
+
+.cardwid .product-links li a {
+    position: absolute;
+    left: 10px;
+}
+
+
+.cardwid .product-links li a:hover {
+    color: #ff0000;
+    position: absolute;
+    left: 10px;
+}
+
+
+
+
+/*Products end*/
+
+
+
+/*Blog Start*/
+.blogging {
+    padding: 40px 0px;
+}
+
+.blogging .blogtitle h3 {
+    font-size: 35px;
+  
+    font-weight: bold;
+}
+
+
+
+/*Blog end*/
+
+
+/*Footer start*/
+.Footer {
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)), url('forest.webp');
+    background-size: cover;
+    padding: 40px 0px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.Footer .footertitle h2 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+  
+}
+
+
+
+.Footer .footericon i {
+    color: white;
+    border: 1px solid #647941 ;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 11px 0px;
+    text-align: center;
+    background-color: #79a379;
+    font-size: 15px;
+}
+
+
+.Footer .foocont .foothead {
+    font-size: 30px;
+    font-weight: bold;
+  
+    color: white;
+}
+
+
+
+.Footer .foocont .footpar {
+    color: white;
+    font-size: 13px;
+
+}
+
+
+
+.Footer .ourlink li {
+    display: block;
+}
+
+
+.Footer .ourlink a {
+    color: white;
+    font-weight: bold;
+}
+
+.Footer .foothed1 li {
+    display: block;
+    padding: 5px 0px;
+    color: white;
+}
+
+
+.Footer .foothed1 a {
+    color: white;
+}
+
+
+.Foot2 {
+    background-color: #79a379;
+    padding: 10px 0px;
+}
+
+
+.Foot2 a {
+    color: aquamarine;
+}
+
+/*Footer end*/
+
+
+
+/*FAQ start*/
+
+.faqhead {
+    padding-top: 120px;
+}
+
+
+.faqhead .faqtitle {
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)), url('cow3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding-top: 130px;
+}
+
+.faqhead .titlefaq {
+   
+    font-size: 30px;
+    color: white;
+}
+
+/*FAQ end*/
+
+
+
+
+
+/*Tab Start*/
+
+
+.faqTabbing {
+    padding: 40px 0px;
+}
+
+
+.faqside {
+    background-color: #647941 ;
+
+    padding: 10px 0px;
+    border-radius: 10px;
+}
+
+
+.faqside>a:after {
+    content: "\2b";
+    font-family: "Font Awesome 5 Free";
+    color: #ffffff;
+    font-weight: bolder;
+    float: left;
+    padding: 4px 10px;
+
+}
+
+.faqside>a[aria-expanded="true"]:after {
+    content: "\f068";
+    font-family: "Font Awesome 5 Free";
+    font-weight: bolder;
+}
+
+.faqside a {
+    color: #ffffff;
+  
+    font-size: 18px;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+
+.faqTabbing .faqTabinTabs .faqbodypara {
+    font-size: 13px;
+    color: darkslategrey;
+    padding: 0px 15px;
+    padding-bottom: 40px;
+}
+
+/*Tab end*/
+
+/*About page Start*/
+.AboutSection {
+    padding: 60px 0px;
+}
+
+
+
+.AboutSection .AbdImg {
+
+    border-radius: 10px;
+}
+
+
+.AboutSection .abotitle1 {
+    font-weight: bold;
+    font-size: 40px;
+  
+    letter-spacing: 1px;
+}
+
+
+.AboutSection .abohead {
+    font-size: 25px;
+    font-weight: bold;
+    color: #647941 ;
+  
+}
+
+.AboutSection .abopara {
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+
+
+
+
+/*About page end*/
+
+
+
+
+/*Exclusive start*/
+
+.exclusive {
+    padding: 4px 0px;
+}
+
+
+.exclusive .excluhead {
+    font-size: 35px;
+  
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+
+.exclusive .exclustart {
+    padding: 40px 0px;
+    margin: 0px;
+}
+
+
+
+.exclusive .exclucontent {
+    padding: 100px 0px;
+}
+
+.exclusive .excluhead1 {
+    font-size: 35px;
+  
+    font-weight: bold;
+}
+
+.exclusive .exclupara {
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+.exclusecond {
+    padding: 20px 0px;
+}
+
+.exclusecond .excluhead2 {
+    font-size: 35px;
+  
+    font-weight: bold;
+}
+
+.exclusecond .exclucontent1 {
+    padding: 100px 0px;
+}
+
+/*Exclusive end*/
+
+/*team start*/
+
+.Team {
+    padding: 40px 0px;
+}
+
+.Team .teamhead {
+    font-size: 35px;
+  
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+
+.Team .teamcards {
+    border: 0px;
+}
+
+.teamimg {
+    border-radius: 10px;
+}
+
+.teamname {
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+.teampossition {
+    font-size: 15px;
+    color: darkslategrey;
+
+}
+
+.teamcont {
+    padding: 20px 0px;
+}
+
+/*team end*/
+
+
+/*service start*/
+
+.training {
+    padding: 40px 0px;
+}
+
+
+.traineecard {
+
+    border: 0px;
+    background-color:#647941ba;
+    color: white;
+    border-radius: 10px;
+}
+
+.cardtit {
+    font-size: 25px;
+  
+}
+
+.trainepara {
+    width: 150px;
+    font-size: 13px;
+    height: 200px;
+}
+
+.trainmg {
+    position: relative;
+}
+
+.traicont {
+    position: absolute;
+    top: 39px;
+    padding-left: 20px;
+    padding-right: 300px;
+}
+
+.traineebtn {
+    background-color: white;
+    color: #647941 ;
+    border: 0px;
+    border-radius: 9px;
+
+}
+
+.traineebtn:hover {
+    background-color: white;
+    color: #647941 ;
+}
+
+.trancardimg {
+    border-radius: 10px;
+
+}
+
+.servhead {
+    font-size: 35px;
+  
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/*service end*/
+
+
+/*Service image start*/
+
+.servtitle {
+    padding: 20px 0px;
+}
+
+.mainimg {
+    border-radius: 20px;
+    width: 400px;
+}
+
+
+.serviceimagesize {
+    width: 400px;
+    height: 205px;
+    border-radius: 20px;
+}
+
+.servimg {
+    text-align: center;
+}
+
+/*Service image end*/
+
+
+/*Contact start*/
+
+.contact {
+    padding: 60px 0px;
+}
+
+.Contactmap {
+    border-radius: 20px;
+}
+
+
+.contacticon {
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: #647941 ;
+}
+
+
+.contacthead {
+    font-size: 20px;
+  
+    font-weight: bold;
+}
+
+.contactpara {
+    font-size: 17px;
+    color: darkslategrey;
+}
+
+/*Contact end*/
+
+
+/*Add to cart start*/
+
+.AddtoCart {
+    padding: 40px 0px;
+}
+
+.addCart {
+    background-color: #acd1ac;
+    margin: 0px;
+
+}
+
+.prodlist {
+    font-size: 30px;
+  
+    font-weight: bold;
+    padding: 10px 0px;
+}
+
+.prodlist1 {
+    font-size: 30px;
+  
+    font-weight: bold;
+    padding: 10px 0px;
+    color: white;
+}
+
+.cartbutton {
+    background-color: #647941 ;
+    color: white;
+    border: 1px solid #647941  !important;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.cartbutton:hover {
+    background-color: white;
+    color: #647941 ;
+}
+
+.cartSummary {
+    background-color: cadetblue;
+}
+
+.discontlab {
+    width: 340px;
+    padding: 0px 10px;
+}
+
+.couponlable {
+    border: 1px solid #00333b;
+}
+
+.couplable {
+    background-color: #647941 ;
+    color: white;
+    border: 1px solid #647941  !important;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.couplable:hover {
+    background-color: white;
+    color: #647941 ;
+}
+
+.countcontent {
+    font-size: 15px;
+  
+    font-weight: bold;
+    color: white;
+}
+
+.countcontfree {
+    color: #15ff00;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.countcont {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.checkCart {
+    background-color: #224b52;
+    padding-bottom: 15px;
+
+}
+
+/*Add to cart end*/
+
+
+/*product start*/
+
+.Productsmain {
+    padding: 40px 0px;
+}
+
+.productimg {
+    background-color: burlywood;
+    padding: 10px 10px;
+}
+
+.starIcon {
+    display: inline-block;
+}
+
+
+
+.ProductPrice {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+.producttotal {
+    font-size: 16px;
+}
+
+
+.Prodbutton {
+    background-color: #647941 ;
+    color: white;
+    border: 1px solid #647941  !important;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.Prodbutton:hover {
+    background-color: white;
+    color: #647941 ;
+}
+
+
+.ProdTabs{
+    padding: 30px 0px;
+}
+
+.tabstop .nav-tabs .taButton.active{
+    background-color: #1f3f1f;
+    color:#6db100ba;
+    font-weight: bold;
+}
+
+.tabstop .nav-tabs .taButton{
+    background-color: #647941 ;
+    font-weight: bold;
+    color: white;
+    font-size: 1.5vw;
+}
+
+.Items {
+    padding-right: 5px;
+}
+
+.Tabhead{
+    font-size: 30px;
+  
+    font-weight: bold;
+    padding: 10px 0px;
+    color:#647941 ;
+}
+
+.Tabparah{
+    font-size: 15px;
+    color: darkslategrey;
+}
+
+.ContBorder{
+    border: 1px solid grey;
+    background-color: #d5f7d5;
+}
+
+.tabsContent{
+    padding: 10px 20px;
+}
+
+.prodpadd{
+    padding: 10px 0px;
+}
+/*product end*/
+
+
+/*Checkout Start*/
+
+.Checkout{
+    padding: 40px 0px;
+}
+
+.SBname{
+    font-size: 30px;
+  
+    font-weight: bold;
+    color:#647941 ;
+}
+
+.cartContent{
+    font-size: 20px;
+  
+    font-weight: bold;
+    color: darkslategrey;
+}
+
+.ShipBillbtn{
+    height: 100px;
+    width: 100%;
+    background-color: #79a379;
+    border-radius: 100px;
+    color: black;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.ShipBillbtn:hover{
+    background-color: rgb(180, 129, 62);
+}
+
+.orderSummary{
+    padding: 0px 10px;
+}
+
+.OrderCard{
+    background-color: #e8f5d3;
+    padding: 10px 0px;
+}
+
+.crdbottom{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 2px solid #1f3f1f;
+    background-color: rgb(199, 219, 191);
+}
+
+.Checkname{
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+
+
+.carttitle{
+    padding: 5px 10px;
+}
+
+.OrderDetails{
+    padding: 5px 10px;
+}
+
+.checkprices{
+    font-size:15px;
+  
+    font-weight: bold;
+    color: rgb(63, 63, 63);
+}
+
+/*Checkout end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
